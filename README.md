@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ElfistIO
 - 👀 I’m interested in coding, design, astronomy, snowboarding.
-- 🌱 I’m currently learning JavaScript, HTML, CSS, React, Node.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JavaScript, React, Node.
+- 📫 How to reach me: e-mail: enerdil@yandex.ru, Telegram: @Mokhirev_react
 
 <!---
 ElfistIO/ElfistIO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
